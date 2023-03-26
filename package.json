@@ -5,6 +5,11 @@
   "author": "Gabriela Pinheiro",
   "license": "MIT",
   "dependencies": {
+    "eslint": "^8.36.0",
     "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0"
   }
 }
