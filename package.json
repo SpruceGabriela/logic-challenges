@@ -1,0 +1,10 @@
+{
+  "name": "logic_challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriela Pinheiro",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
